@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&family=Roboto+Slab:wght@300;400;700&display=swap');
+
+body{
+    background-color: #ffffff;
+    color: #141414;
+    margin: 2em;
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    color: #141414;
+}
+
+h2{
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Roboto Slab', serif;
+    color:#141414;
+}
+
+a{
+    color:#141414;
+}
+
+h3{
+    text-align: center;
+    font-size: 26px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.imagens{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 40%;
+}
+
+h4{
+    text-align: center;
+    font-size: 10px;
+    font-family: 'Roboto Slab', serif;
+}
+
+
+p{
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+}
